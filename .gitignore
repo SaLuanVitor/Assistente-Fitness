@@ -32,3 +32,8 @@ Thumbs.db
 *.egg-info/
 dist/
 build/
+
+# Ignorar .json
+config_drive.json
+token.json
+*.json
