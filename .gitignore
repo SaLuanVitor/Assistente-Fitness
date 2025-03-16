@@ -1,0 +1,34 @@
+# Ignorar o arquivo de chave de API
+.env
+apiKey.txt
+
+# Ignorar pastas de cache
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração locais
+*.local
+.settings/
+
+# Ignorar arquivos gerados por editores
+*.vscode/
+*.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar arquivos de pacotes Python
+*.egg-info/
+dist/
+build/
